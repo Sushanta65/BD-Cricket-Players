@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Tamim Iqbal Khan",
+        "born": "March 20, 1989",
+        "age": "31 years",
+        "playingRole": "Opening batsman",
+        "battingStyle": "Left-hand bat",
+        "salary": 200000,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1221600.html",
+        "key" : "TIK"
+    },
+    {
+        "name": "Shakib Al Hasan",
+        "born": "March 24, 1987",
+        "age": "33 years",
+        "playingRole": "Allrounder",
+        "battingStyle": "Left-hand bat",
+        "salary": 230000,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1221590.html",
+        "key" : "SAH"
+    },
+    {
+        "name": "Mohammad Mushfiqur Rahim",
+        "born": "May 9, 1987",
+        "age": "33 years",
+        "playingRole": "Wicketkeeper batsman",
+        "battingStyle": "Right-hand bat",
+        "salary": 220000,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1221580.html",
+        "key" : "MMR"
+    },
+    {
+        "name": "Liton Kumar Das",
+        "born": "October 13, 1994",
+        "age": "26 years",
+        "playingRole": "Wicketkeeper batsman",
+        "battingStyle": "Right-hand bat",
+        "salary": 210000,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1221378.html",
+        "key" : "LKD"
+    },
+    {
+        "name": "Mehidy Hasan Miraz",
+        "born": "October 25, 1997",
+        "age": "23 years",
+        "playingRole": "Allrounder",
+        "battingStyle": "Right-hand bat",
+        "salary": 200000,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1221384.html",
+        "key" : "MHM"
+    },
+    {
+        "name": "Mominul Haque",
+        "born": "September 29, 1991",
+        "age": "29 years",
+        "playingRole": "Middle-order batsman",
+        "battingStyle": "Left-hand bat",
+        "salary": 201000,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1221578.html",
+        "key" : "MH"
+    },
+    {
+        "name": "Taijul Islam",
+        "born": "February 7, 1992",
+        "age": "29 years",
+        "playingRole": "Bowler",
+        "battingStyle": "Left-hand bat",
+        "salary": 201000,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1221598.html",
+        "key" : "TI"
+    },
+    {
+        "name": "Abu Jayed Chowdhury",
+        "born": "August 2, 1993",
+        "age": "27 years",
+        "playingRole": "Bowler",
+        "battingStyle": "Right-hand bat",
+        "salary": 203000,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1221337.html",
+        "key" : "AJC"
+    },
+    {
+        "name": "Shadman Islam Anik",
+        "born": "May 18, 1995",
+        "age": "25 years",
+        "playingRole": "Opening batsman",
+        "battingStyle": "Left-hand bat",
+        "salary": 221000,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1221588.html",
+        "key" : "SIA"
+    },
+    {
+        "name": "Mohammad Nayeem Hasan",
+        "born": " February 12, 2000",
+        "age": "21 years",
+        "playingRole": "Bowler",
+        "battingStyle": "Right-hand bat",
+        "salary": 211000,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1125504.html?alt=1",
+        "key" : "MNH"
+    },
+    {
+        "name": "Kazi Shahadat Hossain",
+        "born": "August 7, 1986",
+        "age": "34 years",
+        "playingRole": "Bowler",
+        "battingStyle": "Right-hand bat",
+        "salary": 200100,
+        "img" : "https://www.espncricinfo.com/inline/content/image/818075.html?alt=1",
+        "key" : "KSH"
+    },
+    {
+        "name": "Abdur Razzak",
+        "born": "June 15, 1982",
+        "age": "38 years",
+        "playingRole": "Bowler",
+        "battingStyle": "Left-hand bat",
+        "salary": 201100,
+        "img" : "https://www.espncricinfo.com/inline/content/image/817729.html?alt=1",
+        "key" : "AR"
+    },
+    {
+        "name": "Sohag Gazi",
+        "born": "August 5, 1991",
+        "age": "29 years",
+        "playingRole": "Bowler",
+        "battingStyle": "Right-hand bat",
+        "salary": 211100,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1221593.html",
+        "key" : "SG"
+    },
+    {
+        "name": "Soumya Sarkar",
+        "born": "February 25, 1993",
+        "age": "28 years",
+        "playingRole": "Middle-order batsman",
+        "battingStyle": "Left-hand bat",
+        "salary": 221100,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1221594.html",
+        "key" : "SS"
+    },
+    {
+        "name": "Taskin Ahmed",
+        "born": "April 3, 1995",
+        "age": "25 years",
+        "playingRole": "Bowler",
+        "battingStyle": "Left-hand bat",
+        "salary": 201130,
+        "img" : "https://www.espncricinfo.com/inline/content/image/1221603.html",
+        "key" : "TA"
+    }
+    
+    
+]

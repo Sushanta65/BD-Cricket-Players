@@ -1,0 +1,13 @@
+.playersArea{
+    border-right: 1px solid lightgray;
+}
+.totalSalary {
+    background-color: #3aaba9;
+    font-size: 24px;
+    width: 310px;
+    color: white;
+}
+.selectedPlayers{
+    width: 310px;
+    font-size: 20px;
+}
